@@ -9,3 +9,7 @@ I took two online classes at BSU over the summer (Web Programming and Android de
 ## Andrew Thomas
 
 I took two online classes as well and worked full time as a solutions architect at Solutions4ebiz. I wrote shell scripts to migrate sites to newer server. I refactored a 20-year old e-commerce site to run on the latest software, and integrated a new payment processor to maintain PCI compliance. I built a few custom sites using Laravel. One was a custom survey site for a church to see their members gifts, and another managed invoices for a major VoIP company. I automated the throttling of internet speeds based on payment statuses and dynamically adjusted customer's tv access based on the plan they payed for. I did various other tasks as needed.
+
+## Jacob Davis
+
+Over the summer i spent most of it at home contributing to open source projects especially a lot of client extensions like facecheck for League of Legends. I even spent time helping with other web apps that are open to contribution.
